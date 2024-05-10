@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michalina</h1>
-<h3 align="center">I am a Junior QA engineer from Wrocław. I am eager to continuously develop my skills by participating in various initiatives and projects. My goal is to enhance my abilities as a QA professional and apply my knowledge and expertise towards achieving success. Here, I will showcase my activities related to skill development for you to review.</h3>
+<h3 align="center">I am a Junior QA engineer from Poland. I am eager to continuously develop my skills by participating in various initiatives and projects. My goal is to enhance my abilities as a QA professional and apply my knowledge and expertise towards achieving success. Here, I will showcase my activities related to skill development for you to review.</h3>
 
 - 🌱 I’m currently learning **Selenium, Postman, Java, JavaScript**
 
